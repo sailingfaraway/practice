@@ -1,2 +1,2 @@
-branch1 master feature2
+branch1 master feature2 master
 feature2
